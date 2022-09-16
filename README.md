@@ -1,2 +1,2 @@
 # sivatest
-Just to test
+Sample test module for ec2
